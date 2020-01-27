@@ -1,4 +1,6 @@
 name: Brick-A-Pic
 markdown: kramdown
+title: Brick-A-Pic
+description: This is the project page for the Brick-a-Pic project.
 
 theme: jekyll-theme-architect
