@@ -1,2 +1,4 @@
 name: Brick-A-Pic
 markdown: kramdown
+
+theme: jekyll-theme-architect
