@@ -1,5 +1,5 @@
 --- 
-layout: page
+layout: default
 title: First Post
 date: 2020-01-27 16:18:20 -0000
 categories: information
