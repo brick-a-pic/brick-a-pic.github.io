@@ -23,22 +23,25 @@ The upshot of this research is that we knew we wanted to focus on a LEGO mosaic-
 
 Based on what we knew this project should accomplish, we looked at the tools we could use to this end.
 
-**Front-End Development** \
+**Front-End Development**
+
 Since we decided to create a web application, a UI development framework seemed necessary to make it easy to create the interface. We decided on [Vue.js](https://vuejs.org), since it had the most familiarity among our current team members and didn't have as steep of a learning curve as other frameworks like [AngularJS](https://angularjs.org/), for the team members that needed to pick it up.
 
-**Image Manipulation**  \
+**Image Manipulation** 
+
 We anticipate Brick-a-Pic will involve nontrivial image manipulation -- there's the problem of rasterizing arbitrary images into lower resolutions while still keeping them recognizable, and since [LEGO only consistently manufactures 17 colors](https://brickarchitect.com/2018/lego_colors/#common_colors), image colors may have to be heavily quantized. Since the current goal is to keep all image processing client-side, any and all image manipulation will have to be done in Javascript, in the browser. Thus, we looked at Javascript libraries that could help with that -- [Camanjs](http://camanjs.com/), [glfx](https://evanw.github.io/glfx.js/), [Jimp](https://www.npmjs.com/package/jimp), and the [HTML5 Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) itself.
 
 We came to the conclusion however, that with the presence of Canvas API calls like [getImageData](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/getImageData) and [drawImage](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/drawImage), to try to develop image manipulation routines with just the HTML5 Canvas, to reduce the number of unnecessary dependencies used.
 
-**Containerization** \
+**Containerization** 
+
 A secondary goal of this project is to allow for multiple distribution options -- in theory, since a web app should be simple to reproduce and rehost. In order to simplify this process, our current plan is to [provide a Dockerfile](https://github.com/brick-a-pic/brick-a-pic/blob/master/Dockerfile) so that anyone can and host their own personal Brick-a-Pic instance.
 
 ## UI Mockups
 
-In order to get an idea of what the process of using Brick-a-Pic could look like, we created a few mockups of a final mobile UI.
+In order to get an idea of what the process of using Brick-a-Pic could look like, we created mockup of a final mobile UI.
 
-![Roughly sketched flow chart detailing user flow of Brick-a-Pic app](assets/img/roughmockup.png)
+![Roughly sketched flow chart detailing user flow of Brick-a-Pic app](/assets/img/roughmockup.png)
 
 ## Future Goals
 
