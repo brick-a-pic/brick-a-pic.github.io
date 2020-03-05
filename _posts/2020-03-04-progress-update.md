@@ -5,8 +5,6 @@ date: 2020-03-04 16:18:20 -0000
 categories: information
 ---
 
-# March Progress Update
-
 After nearly a month of development, we're happy to announce the implementation of a number of features outlined in the the previous post!
 
  An overview of what's been created so far:
