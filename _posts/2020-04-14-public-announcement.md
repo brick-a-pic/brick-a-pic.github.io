@@ -20,6 +20,21 @@ Welcome to the Brick-a-Pic project! After our 5 months of development, we’d li
 
 ## Key Features
 
+
+### Overview:
+
+The interface is a simple one, with a banner along the top with the app name and links if they want to learn more. Most of the screen is a preview of the resulting Lego image, with a settings panel on the left side. The panel can be shown and hidden using the hamburger button at the top left to save space.
+
+### Image Uploading
+
+By clicking “Open image,” users can select any image file from their computer to upload, or take a photo if they’re on a mobile device. 
+
+![](/assets/img/openimg.gif)
+
+If they just want to get a sense of what the app can do, they can select one of the sample images.
+
+![](/assets/img/sampleimg.gif)
+
 ### Size Selection: 
 
 The user can then customize the dimensions of the image to fit their desired resolution and size by either changing the slider position or directly enter the dimensions themselves. When “Preserve aspect ratio” is checked, the image retains its proportions as it is scaled.
@@ -32,6 +47,10 @@ Depending on the size of their Lego collection, the user may want to check more 
 
 ![](/assets/img/colorquantization.gif)
 
+### Grid Labelling:
+
+The resulting image will have gridlines and grid numbering to guide builders:
+![](/assets/img/coordinates.png)
 
 ### Pan/Zoom Functionality
 
