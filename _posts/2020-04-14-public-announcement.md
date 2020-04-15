@@ -67,4 +67,4 @@ Since Brick-a-Pic exists entirely in the client and all processing is done direc
 
 ## Contributing
 
-Brick-a-Pic is completely free and open source, so contributions are always welcome. You can start by reading our [CONTRIBUTING.md](https://github.com/brick-a-pic/brick-a-pic/blob/master/CONTRIBUTING.md), or by looking for open issues on GitHub.
+Brick-a-Pic is completely free and open source, so contributions are always welcome. You can start by reading our [CONTRIBUTING.md](https://github.com/brick-a-pic/brick-a-pic/blob/master/CONTRIBUTING.md), or by looking for open issues on GitHub. Feel free to join our [Gitter](https://gitter.im/brick-a-pic-talk/community) channel to discuss your ideas with our developers.
