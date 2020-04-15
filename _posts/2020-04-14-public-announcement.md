@@ -9,7 +9,7 @@ categories: information
 
 ### Introduction
 
-Welcome to the Brick-a-Pic project! After our 5 months of development, we’d like to announce this project to the world at large. Brick-a-Pic is a web application that intends to make it as easy as possible for people to make mosaics out of LEGO bricks. If you’d like to learn more about it, read on. If you want to try it out, you can [here](https://brick-a-pic.github.io/brick-a-pic/):
+Welcome to the Brick-a-Pic project! After our 5 months of development, we’d like to announce this project to the world at large. Brick-a-Pic is a web application that intends to make it as easy as possible for people to make mosaics out of LEGO bricks. If you’d like to learn more about it, read on. If you want to try it out, you can [here](https://brick-a-pic.github.io/brick-a-pic/). You can also find a video demonstration of our project on [Youtube](https://www.youtube.com/watch?v=NeJKxXQ7_NY&feature=emb_title).
 
 
 
