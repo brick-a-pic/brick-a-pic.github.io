@@ -50,6 +50,7 @@ Depending on the size of their Lego collection, the user may want to check more 
 ### Grid Labelling:
 
 The resulting image will have gridlines and grid numbering to guide builders:
+
 ![](/assets/img/coordinates.png)
 
 ### Pan/Zoom Functionality
