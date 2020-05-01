@@ -30,3 +30,4 @@ We plan to continue working on this project, both responding to issues and pull 
 ### Contributing to other projects
 
 Working with the open source development style has been a positive experience for us, and we will keep an eye out for other open source projects to contribute to in the future, either improving a tool we already use or contributing to something random and new.
+
